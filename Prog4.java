@@ -10,6 +10,6 @@ class Prog4{
   }
   static String count(String str){
     String words[]=str.split(" ");
-    return words[];
+    return words;
   }
 }

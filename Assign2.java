@@ -19,7 +19,7 @@ public class Assign2{
       if(url.endsWith(".com"))
         return true;
     }
-  }
+  
         return false;
     }
 }
